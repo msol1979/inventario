@@ -1,6 +1,3 @@
-from funciones import *
-
-conexion = obtener_conexion()
 
 from funciones import *
 
