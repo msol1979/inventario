@@ -108,7 +108,7 @@ def actualizar():
     print('Producto actualizado correctamente')  
     cursor.close()
     conexion.close()
-    
+
 def eliminar():
     # valid. ID
     while True:
